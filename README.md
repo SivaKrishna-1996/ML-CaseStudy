@@ -1,0 +1,1 @@
+## This repository consists of various case studies in which various ML algorithms such as (Linear Regression, Logistic Regression, Decision Tree, Random Forest, Ensemble Models) including EDA part and statistical tests are executed.
