@@ -1,0 +1,1 @@
+## The dataset given is about TB prevalence, all forms (per 100000 populations per year) in different countries. Group countries based on how similar their situation has been year-by-year to understand the world situation regarding the tuberculosis disease. The cluster information is given for reference. Please remove the same before building the models.
